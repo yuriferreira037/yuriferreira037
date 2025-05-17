@@ -1,7 +1,7 @@
-- 👋 Olá, Me chamo: @yuriferreira037;
+- 👋 Olá, Me chamo: Yuri Eustáquio Ferreira;
 - 👀 Estou interessado em: Programação e Análise de Dados;
-- 🌱 Atualmente estou: Cursando e Estudando;
-- ☑️ Estou na procura de experiência em: Analista de Dados
+- 🌱 Atualmente estou: Trabalhando e estudando na área de dados;
+- ☑️ Estou na procura de experiência em: Analista de Dados.
 
 ...
 <!---
